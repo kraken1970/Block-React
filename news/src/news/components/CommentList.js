@@ -34,4 +34,6 @@ class CommentList extends Component {
   }
 }
 
+console.log("test");
+
 export default toggleOpen(CommentList);
